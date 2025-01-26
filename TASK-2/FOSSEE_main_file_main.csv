@@ -1,0 +1,51 @@
+Category,Activity_Data,Emission_Factor( kg CO2e/unit),Total_Emission(Kg),emmission_rate,Scope 3 Category,sum_emmision,Data Source,Relevance to Emissions Accounting
+Purchased Goods and Services(steel),"1,000",1.9,1900,highest,0,0,0,0
+Purchased Goods and Services(plastic),500,2.5,1250,highest,0,0,0,0
+Purchased Goods and Services(textile),200,3,600,highest,Purchased Goods and Services,5460,GHG Protocol's Technical Guidance for Calculating Scope 3 Emissions,Covers methodologies for assessing emissions from purchased goods/services
+Purchased Goods and Services(paper),300,1.2,360,highest,0,0,0,0
+Purchased Goods and Services(aluminum),150,9,1350,highest,0,0,0,0
+Capital Goods(in $ and machinery ),"50,000",0.5,25000,0,0,0,0,0
+Capital Goods(sq ft building constructed),100,500,50000,0,0,0,0,0
+Capital Goods(IT equipment acquired),"10,000",0.3,3000,0,Capital Goods,96000,GHG Protocol's Technical Guidance for Calculating Scope 3 Emissions,Discusses emissions related to manufacturing and construction capital goods
+Capital Goods(vehicles purchased),"20,000",0.6,12000,0,0,0,0,0
+Capital Goods(in $ and HVAC systems installed),"15,000",0.4,6000,0,0,0,0,0
+Fuel- and Energy-Related Activities(kWh electricity consumed),"10,000",0.1,1000,0,0,0,0,0
+Fuel- and Energy-Related Activities(liters diesel used),"5,000",2.7,13500,0,0,0,0,0
+Fuel- and Energy-Related Activities(liters gasoline purchased),"8,000",2.3,18400,0,Fuel- and Energy-Related Activities,38400,EPA's Scope 3 Inventory Guidance,Provides guidance for upstream emissions not in Scope 1 or 2
+Fuel- and Energy-Related Activities(liters propane consumed),"2,000",1.5,3000,0,0,0,0,0
+Fuel- and Energy-Related Activities(kg coal used),"1,000",2.5,2500,0,0,0,0,0
+Upstream Transportation and Distribution(kg goods transported 500 km by truck),"1,000",0.2,100,highest,0,0,0,0
+"Upstream Transportation and Distribution(kg materials shipped 1,000 km by rail)","2,000",0.05,100,highest,0,0,0,0
+"Upstream Transportation and Distribution(kg products air freighted over 2,000 km)",500,1.5,1500,highest,Upstream Transportation and Distribution,1775,GHG Protocol's Technical Guidance for Calculating Scope 3 Emissions,Describes upstream transportation and distribution-related emissions
+Upstream Transportation and Distribution(kg goods transported 200 km by ship),"3,000",0.01,30,highest,0,0,0,0
+Upstream Transportation and Distribution(kg supplies delivered 100 km by van),"1,500",0.3,45,highest,0,0,0,0
+Waste Generated in Operations(kg paper waste sent to landfill),"1,000",1,1000,0,0,0,0,0
+Waste Generated in Operations(kg plastic waste recycled),500,0.5,250,0,0,0,0,0
+Waste Generated in Operations(kg hazardous waste incinerated),200,2,400,0,Waste Generated in Operations,1905,EPA's Scope 3 Inventory Guidance,Quantifies emissions from waste management and processing activities
+Waste Generated in Operations(kg organic waste composted),300,0.1,30,0,0,0,0,0
+Waste Generated in Operations(kg electronic waste disposed),150,1.5,225,0,0,0,0,0
+Business Travel(km flown),"10,000",0.15,1500,highest,0,0,0,0
+Business Travel(km traveled by train),"3,000",0.05,150,highest,0,0,0,0
+Business Travel(km driven),"2,000",0.2,400,highest,Business Travel,3175,GHG Protocol's Technical Guidance for Calculating Scope 3 Emissions,Accounts for emissions related to corporate travel by employees
+Business Travel(km traveled by taxi),500,0.25,125,highest,0,0,0,0
+Business Travel( hotel nights booked),100,10,1000,highest,0,0,0,0
+Employee Commuting(employees; 50 km/day by bus),500,0.1,50,0,0,0,0,0
+Employee Commuting(employees; 30 km/day by carpooling),200,0.2,40,0,0,0,0,0
+Employee Commuting(employees; 40 km/day by car),100,0.3,30,0,Employee Commuting,270,EPA's Scope 3 Inventory Guidance,Measures impacts of employee commuting choices
+Employee Commuting(employees commuting by bicycle),50,0,0,0,0,0,0,0
+Employee Commuting(employees; 20 km/day by metro),150,0.05,150,0,0,0,0,0
+Upstream Leased Assets(sq ft office leased),"5,000",20,10000,0,0,0,0,0
+Upstream Leased Assets(kWh power consumed in data center),"1,00,000",0.1,10000,0,0,0,0,0
+Upstream Leased Assets()km traveled by leased vehicles),"50,000",0.2,10000,0,Upstream Leased Assets,70000,GHG Protocol's Technical Guidance for Calculating Scope 3 Emissions,Covers leased asset emissions indirectly related to company operations
+Upstream Leased Assets(km traveled by leased vehicles),20,500,10000,0,0,0,0,0
+Upstream Leased Assets(km traveled by leased vehicles),"1,000",30,30000,0,0,0,0,0
+Downstream Transportation and Distribution(packages transported via truck),"10,000",0.2,2000,highest,0,0,0,0
+Downstream Transportation and Distribution(products air shipped),"5,000",1.5,7500,highest,0,0,0,0
+Downstream Transportation and Distribution(goods transported by rail),"15,000",0.05,750,highest,Downstream Transportation and Distribution,12700,EPA's Scope 3 Inventory Guidance,Identifies emissions from transporting goods downstream
+Downstream Transportation and Distribution(items delivered by van),"7,500",0.3,2250,highest,0,0,0,0
+Downstream Transportation and Distribution(goods transported via sea),"20,000",0.01,200,highest,0,0,0,0
+Use of Sold Products(refrigerators sold),100,100,10000,highest,0,0,0,0
+Use of Sold Products(air conditioners sold),50,200,1000,highest,0,0,0,0
+Use of Sold Products(washing machines sold),1500,50,75000,highest,Use of Sold Products,109250,GHG Protocol's Technical Guidance for Calculating Scope 3 Emissions,Calculates emissions from product usage during lifecycle
+Use of Sold Products(ovens sold),70,75,"5,250",highest,0,0,0,0
+Use of Sold Products(water heaters sold),120,150,18000,highest,0,0,0,0
